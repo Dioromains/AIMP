@@ -1,5 +1,6 @@
 # Visual Studio files
 .vs/
+.vs/*
 *.user
 *.userosscache
 *.sln.docstates
